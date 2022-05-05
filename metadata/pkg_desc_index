@@ -1,0 +1,2 @@
+sys-apps/cfs-zen-tweaks 1.2.0: Tweak Linux kernel CFS scheduler for responsiveness
+x11-terms/rxvt-unicode 9.26-r9 9.30-r9: rxvt clone with xft and unicode support
